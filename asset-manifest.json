@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deploy-ecopet/static/css/main.c9fb46a6.chunk.css",
+    "main.js": "/deploy-ecopet/static/js/main.6e9f7c63.chunk.js",
+    "main.js.map": "/deploy-ecopet/static/js/main.6e9f7c63.chunk.js.map",
+    "runtime~main.js": "/deploy-ecopet/static/js/runtime~main.125250d4.js",
+    "runtime~main.js.map": "/deploy-ecopet/static/js/runtime~main.125250d4.js.map",
+    "static/js/2.c17ea0b2.chunk.js": "/deploy-ecopet/static/js/2.c17ea0b2.chunk.js",
+    "static/js/2.c17ea0b2.chunk.js.map": "/deploy-ecopet/static/js/2.c17ea0b2.chunk.js.map",
+    "index.html": "/deploy-ecopet/index.html",
+    "precache-manifest.5e7235a3396fa8c2eca9d8c47f8903f5.js": "/deploy-ecopet/precache-manifest.5e7235a3396fa8c2eca9d8c47f8903f5.js",
+    "service-worker.js": "/deploy-ecopet/service-worker.js",
+    "static/css/main.c9fb46a6.chunk.css.map": "/deploy-ecopet/static/css/main.c9fb46a6.chunk.css.map"
+  }
+}
